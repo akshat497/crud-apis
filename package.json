@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-limit": "^1.0.0",
+    "fast-two-sms": "^3.0.0",
+    "mongodb": "^1.4.40",
+    "mongodm": "^0.7.1",
+    "mongoose": "^7.0.4",
+    "path": "^0.12.7"
+  },
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud operations for social network",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat497/crud-apis.git"
+  },
+  "author": "akshat saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat497/crud-apis/issues"
+  },
+  "homepage": "https://github.com/akshat497/crud-apis#readme"
+}
